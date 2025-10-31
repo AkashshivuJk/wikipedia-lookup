@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+wikipedia
+requests
+pytest
+httpx
